@@ -18,5 +18,5 @@ EAT:WHA는 이화 캠퍼스 맛집 소개 웹어플리케이션으로, 사용자
 
 ### :star2:Back-end
 <div>
-  <img src="https://img.shields.io/badge/flask-#000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
